@@ -1,0 +1,1 @@
+python ./train.py --multi_gpu --video_dir yuv_dir --score_file_path ./dataset/*.json --load_model ./save/*.pt --save_model ./save/*.pt --size_x 112 --size_y 112 --stride_x 80 --stride_y 80 --learning_rate 3e-3 --weight_decay 1e-2 --epoch 100 
