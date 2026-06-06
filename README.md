@@ -47,6 +47,14 @@ python train.py --multi_gpu --video_dir /dir/to/yuv --score_file_path /path/to/y
 ```
 Please check train.sh and opts.py if you would like to tweak other hyper-parameters.
 
+##
+Pre-trained Models
+
+Due to GitHub's file size limitations, the pre-trained model weights (.pt files) are not included in this repository.
+
+You can download the trained models from the following link:
+
+Download Link: https://pan.quark.cn/s/4cad40085253?pwd=i3kD
 
 We will try to answer above questions. Stay tuned.
 
